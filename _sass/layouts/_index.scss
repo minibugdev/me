@@ -8,6 +8,11 @@
   font-size: 1.2em;
   text-align: center;
   color: $header-desc-text-color;
+  padding: 8% 20%;
+
+  .meta {
+    color: $header-desc-text-color;
+  }
 }
 .call-out p:last-child {
   margin-bottom: 0;
