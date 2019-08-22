@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hackathon
-feature-img: assets/img/hackathon.png
+feature-img: assets/img/hackathon.webp
 tags: [daily]
 ---
 Like every other day, there are no things to do in the morning. 
