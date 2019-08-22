@@ -1,9 +1,12 @@
 ---
-published: false
-layout: post
 title: Markdown and HTML
-feature-img: "assets/img/sample_feature_img.png"
-tags: [test, sample]
+date: 2019-08-20 00:00:00 Z
+published: false
+tags:
+- test
+- sample
+layout: post
+feature-img: assets/img/sample_feature_img.png
 ---
 
 Jekyll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.

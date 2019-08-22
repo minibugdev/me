@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Hackathon
+date: 2019-08-20 00:00:00 Z
+tags:
+- daily
+layout: post
 feature-img: assets/img/hackathon.webp
-tags: [daily]
 ---
 
 Like every other day, nothing to do in the morning. 
