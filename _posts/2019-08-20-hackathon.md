@@ -4,7 +4,6 @@ title: Hackathon
 feature-img: assets/img/hackathon.webp
 tags: [daily]
 ---
-### Daily life #1
 
 Like every other day, nothing to do in the morning. 
 I only checked the emails, GitHub notifications, and surf social network.
