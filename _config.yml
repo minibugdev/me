@@ -1,6 +1,6 @@
 ---
 title: Me
-timezone: UTC
+timezone: Asia/Bangkok
 collections:
   posts:
     title: Posts
@@ -73,7 +73,7 @@ kramdown:
     css_class: highlight
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 plugins:
 - jekyll-paginate
 exclude:
