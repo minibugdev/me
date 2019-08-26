@@ -3,7 +3,7 @@ title: How to handle error
 date: 2019-08-26 12:01:00 +07:00
 tags:
 - daily
-feature-img: assets/uploads/error.webp
+feature-img: uploads/error.webp
 layout: page
 ---
 
