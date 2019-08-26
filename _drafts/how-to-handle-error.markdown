@@ -1,5 +1,5 @@
 ---
-title: How to handle error
+title: Error Handling
 date: 2019-08-26 12:01:00 +07:00
 tags:
 - daily
