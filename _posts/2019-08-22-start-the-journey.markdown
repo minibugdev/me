@@ -6,7 +6,7 @@ tags:
 - jekyll
 - github-pages
 feature-img: uploads/start-journey.webp
-layout: page
+layout: post
 ---
 
 Today, I started to create this site to practice my English by daily a routine. After search technology, I used [Jekyll](https://jekyllrb.com/) and hosted by [Github Pages](https://pages.github.com/) because it was easy to build up and free. 
