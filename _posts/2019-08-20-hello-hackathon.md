@@ -1,6 +1,6 @@
 ---
 title: Hackathon
-date: 2019-08-20 00:00:00 Z
+date: 2019-08-20 07:00:00 +07:00
 tags:
 - daily
 layout: post
