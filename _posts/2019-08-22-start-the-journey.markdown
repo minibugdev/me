@@ -1,6 +1,6 @@
 ---
 title: Start the Journey
-date: 2019-08-21 14:37:00 +07:00
+date: 2019-08-22 14:37:00 +07:00
 tags:
 - daily
 - jekyll
