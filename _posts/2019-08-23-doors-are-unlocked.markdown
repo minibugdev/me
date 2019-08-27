@@ -7,7 +7,7 @@ feature-img: uploads/idea.webp
 layout: post
 ---
 
-There is a meeting with AWS’ consultant about data platform architecture. Even though most meeting is boring, except for this one. The consultant can clarify our requirement and suggest a solution for us, but we need to prove it.
+There is a meeting with AWS’ consultant about data platform architecture. The meeting is boring, except for this one. The consultant can clarify our requirement and suggest a solution for us, but we need to prove it.
 
 > Wherever smart people work, doors are unlocked. ― Steve Wozniak
 
