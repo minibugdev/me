@@ -3,7 +3,8 @@ title: We need to talk - IT angel
 date: 2019-08-27 18:30:00 +07:00
 tags:
 - daily
-feature-img: 
+- podcast
+feature-img: uploads/we-need-to-talk.webp
 layout: post
 ---
 
