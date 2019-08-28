@@ -11,7 +11,7 @@ layout: post
 
 Today, I started to create this site to practice my English by writing a daily. After searching for all technology I could, I finally going for [Jekyll](https://jekyllrb.com/) hosted by [Github Pages](https://pages.github.com/) because it was easy to build up and FREE. 
 
-Moreover, there are a bunch of templates. All I need to do is just pick one and customize it. Then I chose Type Theme the simple one.
+Moreover, there are a bunch of templates. All I need to do is just pick one and customize it. Then I chose [Type Theme](https://github.com/rohanchandra/type-theme) the simple one.
 
 > A journey of a thousand miles begins with a single step. – Lao Tzu
 
