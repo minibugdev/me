@@ -7,7 +7,7 @@ feature-img: uploads/laydown.webp
 layout: post
 ---
 
-On the weekend, I dozed for a whole day and planned to write past daily but it still a plan. Anyway, rest days are important, so I lay down on the weekend and will write a daily on Monday.
+On the weekend, I dozed for a whole day. I actually planed to write the previous daily but it was still a plan. Anyway, Rest days are important, so I was just laying down for this weekend then left the writing on Monday.
 
 > Each night, when I go to sleep, I die. And the next morning, when I wake up, I am reborn. ― Mahatma Gandhi
 
