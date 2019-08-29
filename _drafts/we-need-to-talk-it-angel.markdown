@@ -8,3 +8,5 @@ feature-img: uploads/we-need-to-talk.webp
 layout: post
 ---
 
+- Team Lead Monthly Meeting
+- Wee need to talk podcast
