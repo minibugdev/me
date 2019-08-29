@@ -7,3 +7,5 @@ feature-img: uploads/software-development.webp
 layout: post
 ---
 
+- Explain and request for help to team about Monthly Meeting
+- Exchange SOLID Principle
