@@ -1,5 +1,5 @@
 ---
-title: SOLID Principle
+title: Helpful Discussion
 date: 2019-08-28 18:31:00 +07:00
 tags:
 - daily
