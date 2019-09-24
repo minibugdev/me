@@ -11,7 +11,7 @@ Annual health checkups are important. It helps us know what's going on inside o
 
 In the past, I didn’t realize about healthy. I loved to eat junk food, snacks and coca cola. 3 years ago, I checked up and found a fat factor higher than the standard. Then, I tried to eat them less and exercise more.
 
-> Happiness is the highest form of health. - Dalai Lama
+> Happiness is the highest form of health. ― Dalai Lama
 
 Today is an annual health checkup day. The standard packages didn’t have enough details. So, I bought more checkup packages.
 
