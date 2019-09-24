@@ -10,7 +10,7 @@ At noon, while I sat on the chair and felt sleepy. Suddenly, my colleague shoute
 
 > If you are really thankful, what do you do? You share. - W. Clement Stone
 
-On the sharing, Tape shared about fundamental concepts and basic usages of ReactJS. Which was JavaScript library for building website.
+On the sharing, Tape shared about main concepts and basic usages of ReactJS. Which was JavaScript library for building website.
 
 Moreover, he told the most project that building by ReactJS use ReduxJS to manage a state.
 
