@@ -6,12 +6,12 @@ tags:
 feature-img: uploads/mic.webp
 ---
 
-At noon, while I sat on the chair and felt sleepy. Suddenly, my colleague shouted “Let’s go to attend Tape’s knowledge sharing”. Then, I awoke and joined their party because I thought it would be funnier than felt drowsy at the chair.
+At noon, while I was sitting on the chair feeling sleepy. Suddenly, my colleague shouted “Let’s go to attend Tape’s knowledge sharing”. Then, I awoke and decided to join their party because I thought it would be funnier than felt drowsy alone.
 
 > If you are really thankful, what do you do? You share. - W. Clement Stone
 
-On the sharing, Tape shared about main concepts and basic usages of ReactJS. Which was JavaScript library for building website.
+On the sharing, Tape talked about main concepts and basic usages of ReactJS. Which was JavaScript library for building website.
 
-Moreover, he told the most project that building by ReactJS use ReduxJS to manage a state.
+Moreover, he said that most of websites builded by ReactJS would use ReduxJS to manage a state.
 
-In the end, he said today is a rehearsal. He would revise presentation and add more examples.
+In the end, he told us today was a rehearsal. He would revise presentation and add more examples.
