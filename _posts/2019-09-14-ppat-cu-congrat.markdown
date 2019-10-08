@@ -6,11 +6,13 @@ tags:
 feature-img: uploads/commencement.webp
 ---
 
-When I studied at the university. I loved to go around with my friends and took photos. So, I broke my piggy bank and bought a DSRL camera one. Since I got it, I took lots of photos, especially girls 😻. Anyway, there were less times to do those things after I started to work. Later, I sold it out.
+When I studied at the university. I loved to roaming around and taking photos with my friends. So, I broke my piggy bank to buy a DSRL camera one. Since I got it, I took lots of photos, especially girls 😻. 
 
-In the last month, my university senior asked me to take a photo for his PhD commencement ceremony. At first, I didn’t sure could I did it because I didn’t have experiences and camera. 
+Anyway, I've got less time to do those things after I started to work. Later, I sold it out.
+
+Last month, My university's senior asked me to take a photo for his PhD commencement ceremony. At first, I wasn't sure if I could do it because I've never done something like this before plus no camera. 
 
 > Taking an image, freezing a moment, reveals how rich reality truly is.
 — Anonymous
 
-Although I tried to decline, he said that “Don’t worry, I just want photos and keep a memory”. So, I accepted and became to photographer for him at this day.
+Even though, how hard I tried to decline, he insisted saying that “Don’t worry, I just want photos and keep a memory”. At Last, I accepted and became a photographer for him with his camera at this day.
