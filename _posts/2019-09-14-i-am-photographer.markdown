@@ -1,5 +1,5 @@
 ---
-title: "Am I a Photographer \U0001F4F7"
+title: "I am Photographer \U0001F4F7"
 date: 2019-09-14 22:14:00 +07:00
 tags:
 - daily
