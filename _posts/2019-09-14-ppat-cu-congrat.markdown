@@ -14,4 +14,4 @@ Last month, My university's senior asked me to take a photo for his PhD commence
 
 > Taking an image, freezing a moment, reveals how rich reality truly is. — Anonymous
 
-Eventhough, how hard I tried to decline, he insisted saying that “Don’t worry, I just want photos and keep a memory”. At Last , I accepted and became a photographer for him with my friend's camera at this day.
+Eventhough, how hard I tried to decline, he insisted saying that “Don’t worry, I just want photos and keep a memory”. At Last, I accepted and became a photographer for him with his at this day.
