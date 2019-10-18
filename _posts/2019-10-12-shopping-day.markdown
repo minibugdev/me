@@ -12,6 +12,6 @@ This year, Thailand’s governance aims to stimulate the economy through a “C
 
 Absolutely, I didn’t miss it and planned to spend the money for a new laptop bag and wallet.
 
-Today, I told my wife I wanna eat Khao Soi Kai near Union mall. So, we went to Union mall before heading to Central Ladprao. Although, both of us got 2,000 bath, but we spent 3,600 bath. 
+Today, I told my wife I wanna eat Khao Soi Kai near Union mall. So, we went to Union mall before heading to Central Ladprao for shopping. Although, both of us got 2,000 bath, but we spent 3,600 bath. 
 
 ### "What is this? Why we spent over expected?"
