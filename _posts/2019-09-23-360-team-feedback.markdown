@@ -7,7 +7,7 @@ feature-img: uploads/steps.jpg
 layout: post
 ---
 
-Two weeks ago, I wrote 360° Feedback about in our company we gave feedbacks to each other. Afterward, HR team sended the report to us. Surly, my teammates also got feedbacks report.
+Two weeks ago, I wrote [360° Feedback](https://minibugdev.github.io/me/2019/09/10/peer-feedback.html) about in our company we gave feedbacks to each other. Afterward, HR team sended the report to us. Surly, my teammates also got feedbacks report.
 
 Technically, I am team's leader so I also got their reports for discussed with them.
 
