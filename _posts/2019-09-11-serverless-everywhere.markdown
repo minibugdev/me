@@ -3,7 +3,7 @@ title: Serverless Everywhere
 date: 2019-09-11 17:12:00 +07:00
 tags:
 - daily
-feature-img: uploads/future.png
+feature-img: uploads/server.jpg
 layout: post
 ---
 
