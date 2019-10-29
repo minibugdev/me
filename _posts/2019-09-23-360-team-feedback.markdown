@@ -7,14 +7,10 @@ feature-img: uploads/steps.jpg
 layout: post
 ---
 
-Two weeks ago, I wrote [360° Feedback](https://minibugdev.github.io/me/2019/09/10/peer-feedback.html) about in our company we gave feedbacks to each other. Afterward, HR team sended the report to us. Surly, my teammates also got feedbacks report.
+Two weeks ago, I wrote [360° Feedback](https://minibugdev.github.io/me/2019/09/10/peer-feedback.html) about in our company we gave feedback to each other. Afterward, HR team sent the report to us. Surly, my teammates also got feedbacks report.
 
 > "Passion for knowledge, motivation for continuous learning." - Lailah Gifty Akita
 
-Technically, I am team's leader so I also got their reports for discussed with them.
+Technically, I am a team leader, so I also got their reports to discussed with them. So, today I invited my teammates to talk with me one by one. We discussed feedback and their expectations.
 
-Today, I invited my teammates to talked with me one by one. We discussed about feedbacks and their expectations.
-
-Fortunately, the most of feedbacks were optimistic and my teammates satisfied.
-
-Eventually, I felt very happy because my job was done and everything were all right.
+Fortunately, the most of the feedback was optimistic, and they were satisfied. Eventually, I felt thrilled because I did my job done and everything was all right.
