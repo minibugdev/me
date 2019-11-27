@@ -1,7 +1,6 @@
 ---
 title: JAMStack
-date: 2019-11-27 00:00:00 Z
-published: true
+date: 2019-11-27 07:00:00 +07:00
 tags:
 - test
 layout: post
