@@ -15,4 +15,5 @@ So when it's Spring you'll know why it was all worth going through.”
 Earlier this year, I promised to my wife I’ll go to Dhamma retreat with her. So, it was perfect timing to get away from it all. After coming back home, problems still didn’t solve, but I learned to accept the truth and didn’t drown in the sorrow.
 
 Thanks my wife, she was the best gift in my entire life.
-Love you my present ❤️.
+
+Love you my present ❤️
