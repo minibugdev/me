@@ -5,7 +5,7 @@ feature-img: uploads/love.jpg
 layout: post
 ---
 
-Life has its ups and downs. Unfortunately, it looked like people around me out of luck. My boss leaved, My wife got in an accident and I had to break my piggy bank. Even so, no matter what happens, life must go on.
+Life has its ups and downs. Unfortunately, it looked like people around me out of luck. My boss leaved, My wife got in an accident and I had to break my piggy bank for some reason. Even so, no matter what happens, life must go on.
 
 > “Let it rain on some days,
 Let yourself shiver on some cold nights,
