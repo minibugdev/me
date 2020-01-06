@@ -1,7 +1,17 @@
 ---
 title: Goodbye 2019
 date: 2020-01-01 17:17:00 +07:00
+feature-img: uploads/2019.jpg
 layout: post
 ---
 
-I still remembered that I was looking back at what happened in last year on this day, time flies!. Unfortunately, I didn't write anything so this blog I'll write my 2019 year in review.
+I still remembered that I was looking back at what went on in last year on this day, time flies!. Unfortunately, I wrote nothing so this blog I’ll write my 2019 year in review.
+First, I tried to learn English by writing something on this blog. Besides, my wife supported me. Yes! I learned English from her. Even though I still poor in English, I improved.
+
+For my work, most of my work was reviewing code and fixing some issues. Sometimes I was assigned to write codes for others teams. But I thought I could well this didn’t my best version. I felt Burn out and tried to find the way out. For this reason, my friends and I work together to do the freelance projects. Luckily, I enjoyed working with them and help me left from Burn out.
+
+A few years ago, I loved to join meetup so much, but this year I wasted a whole time on a sofa and watched YouTube. Anyway, I was the staff of some meetup and on last meetup I was the moderator. Even though it made me excited, I really enjoyed.
+
+As I wrote before about lift that life has its ups and downs. My friend who worked with me for 5 years and my underling left. My wife got in an accident. I had to take care of my friend in the hospital for 2 nights. 
+
+Even if everything looked like bad, there are many things grate happened. My brother graduated. I went to Dhamma retreat. I contributed open-source projects and got lots of good feedback. Moreover, I met new people who from Grab SG. He shared his experience in work and life in the international company. I really appreciated and inspired me to do something like him.
