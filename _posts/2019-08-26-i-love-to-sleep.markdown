@@ -3,7 +3,7 @@ title: I love to sleep
 date: 2019-08-26 10:27:00 +07:00
 tags:
 - daily
-feature-img: uploads/laydown.webp
+feature-images: /uploads/laydown.webp
 layout: post
 ---
 

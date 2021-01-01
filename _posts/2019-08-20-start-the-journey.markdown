@@ -5,7 +5,7 @@ tags:
 - daily
 - jekyll
 - github-pages
-feature-img: uploads/start-journey.webp
+feature-images: /uploads/start-journey.webp
 layout: post
 ---
 

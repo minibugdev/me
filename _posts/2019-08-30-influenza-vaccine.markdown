@@ -3,7 +3,7 @@ title: Influenza Vaccine
 date: 2019-08-30 18:14:00 +07:00
 tags:
 - daily
-feature-img: uploads/vaccine.webp
+feature-images: /uploads/vaccine.webp
 layout: post
 ---
 

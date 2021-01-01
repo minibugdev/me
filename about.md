@@ -2,7 +2,7 @@
 title: About
 permalink: "/about/"
 layout: page
-feature-img: assets/img/sample_feature_img_2.png
+feature-images: "/assets/img/sample_feature_img.png"
 ---
 
 Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.

@@ -3,7 +3,7 @@ title: Knowledge Sharing - Tape
 date: 2019-09-05 14:16:00 +07:00
 tags:
 - daily
-feature-img: uploads/mic.webp
+feature-images: /uploads/mic.webp
 ---
 
 At noon, while I was sitting on the chair feeling sleepy. Suddenly, my colleague shouted “Let’s go to attend Tape’s knowledge sharing”. Then, I awoke and decided to join their party because I thought it would be funnier than felt drowsy alone.

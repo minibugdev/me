@@ -196,7 +196,7 @@ Type Theme makes use for [KaTeX](https://khan.github.io/KaTeX/) for typesetting.
 
 ![Posts with geometric feature images](https://cloud.githubusercontent.com/assets/816965/5142406/19726478-71d6-11e4-8111-94f788b0e44d.png)
 
-Add a feature image by specifying a path to an image in the [front matter](http://jekyllrb.com/docs/frontmatter/) in the form of `feature-img: "img/PATH_TO_IMAGE.png"`.
+Add a feature image by specifying a path to an image in the [front matter](http://jekyllrb.com/docs/frontmatter/) in the form of `feature-images: "/img/PATH_TO_IMAGE.png"`.
 
 For example:
 
@@ -204,7 +204,7 @@ For example:
 ---
 layout: post
 title: Hello World
-feature-img: "assets/img/sample_feature_img.png"
+feature-images: "/assets/img/sample_feature_img.png"
 ---
 ```
 
@@ -215,7 +215,7 @@ By default, the page title is displayed on top of the feature image, as well as 
 layout: post
 title: Short title
 feature-title: A much longer title
-feature-img: "assets/img/sample_feature_img.png"
+feature-images: "/assets/img/sample_feature_img.png"
 ---
 ```
 

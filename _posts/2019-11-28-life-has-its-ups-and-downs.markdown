@@ -1,7 +1,7 @@
 ---
 title: Life has its ups and downs
 date: 2019-11-28 17:37:00 +07:00
-feature-img: uploads/love.jpg
+feature-images: /uploads/love.jpg
 layout: post
 ---
 

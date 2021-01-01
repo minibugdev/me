@@ -3,7 +3,7 @@ title: Hello Hackathon
 date: 2019-08-21 07:00:00 +07:00
 tags:
 - daily
-feature-img: uploads/hackathon.webp
+feature-images: /uploads/hackathon.webp
 layout: post
 ---
 

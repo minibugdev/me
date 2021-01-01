@@ -3,7 +3,7 @@ title: Goodbye 2019
 date: 2020-01-01 17:17:00 +07:00
 tags:
 - year-in-review
-feature-img: uploads/2019.jpg
+feature-images: /uploads/2019.jpg
 layout: post
 ---
 

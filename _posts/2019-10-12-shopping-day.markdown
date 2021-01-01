@@ -3,7 +3,7 @@ title: Shopping Day
 date: 2019-10-12 00:03:00 +07:00
 tags:
 - daily
-feature-img: uploads/payment.webp
+feature-images: /uploads/payment.webp
 ---
 
 > “If you would be wealthy, think of saving as well as getting.” — Benjamin Franklin
