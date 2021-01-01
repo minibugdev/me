@@ -3,7 +3,7 @@ title: 360° Feedback
 date: 2019-09-10 17:12:00 +07:00
 tags:
 - daily
-feature-images: /uploads/360-view.webp
+feature-images: "/uploads/360-view.webp"
 layout: post
 ---
 

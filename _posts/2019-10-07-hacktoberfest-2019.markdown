@@ -3,7 +3,7 @@ title: Hacktoberfest® 2019
 date: 2019-10-07 16:50:00 +07:00
 tags:
 - daily
-feature-images: /uploads/hacktoberfest-2019.webp
+feature-images: "/uploads/hacktoberfest-2019.webp"
 ---
 
 Hacktoberfest® is an event that let developers help drive growth of open source by contributing a project in October yearly. Participants would receive a T-shirt from sponsors.

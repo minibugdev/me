@@ -3,7 +3,7 @@ title: "I am Photographer \U0001F4F7"
 date: 2019-09-14 22:14:00 +07:00
 tags:
 - daily
-feature-images: /uploads/commencement.webp
+feature-images: "/uploads/commencement.webp"
 ---
 
 When I studied at the university. I loved to roaming around and taking photos with my friends. So, I broke my piggy bank to buy a DSRL camera one.

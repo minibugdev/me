@@ -3,7 +3,7 @@ title: Doors are unlocked!!
 date: 2019-08-23 15:21:00 +07:00
 tags:
 - daily
-feature-images: /uploads/idea.webp
+feature-images: "/uploads/idea.webp"
 layout: post
 ---
 

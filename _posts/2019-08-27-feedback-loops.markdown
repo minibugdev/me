@@ -4,7 +4,7 @@ date: 2019-08-27 18:30:00 +07:00
 tags:
 - daily
 - podcast
-feature-images: /uploads/feedback.webp
+feature-images: "/uploads/feedback.webp"
 layout: post
 ---
 

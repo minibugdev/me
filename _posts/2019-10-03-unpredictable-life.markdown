@@ -3,7 +3,7 @@ title: Unpredictable Life
 date: 2019-10-03 11:56:00 +07:00
 tags:
 - daily
-feature-images: /uploads/life-is-beautyful.webp
+feature-images: "/uploads/life-is-beautyful.webp"
 ---
 
 Nobody knows the future, so much can happen in our life. 

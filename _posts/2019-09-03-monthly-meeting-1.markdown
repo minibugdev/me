@@ -3,7 +3,7 @@ title: 'Monthly Meeting #1'
 date: 2019-09-03 22:06:00 +07:00
 tags:
 - daily
-feature-images: /uploads/meeting.webp
+feature-images: "/uploads/meeting.webp"
 layout: post
 ---
 
